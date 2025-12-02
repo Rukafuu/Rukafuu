@@ -1,30 +1,56 @@
-
-<!-- LIRA AMARINTH - GITHUB PROFILE README -->
-
 <div align="center">
 
-  <!-- Avatar / Logo (opcional) -->
-  <!-- Troque o link abaixo pelo logo da Lira ou sua foto de perfil, se quiser -->
-  <img src="https://github.com/your-username/your-username/raw/main/assets/lira-logo.png" alt="Lira Amarinth Logo" width="120" style="border-radius: 24px;">
+### 🌙 Lucas Matheus  
+**AI Creator • Experience Engineer • Salesforce Admin**
 
-  <br><br>
+<br>
 
-  <h1>👋 Hey, I'm <span style="color:#4aa7ff;">Lucas Matheus</span></h1>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>  
+<img src="https://img.shields.io/badge/Node.js-3C873A?style=flat-square&logo=node.js&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AI-Groq%20%7C%20Gemini%20%7C%20LLMs-4aa7ff?style=flat-square"/>  
 
-  <p>
-    <strong>AI Creator • Experience Engineer • Developer in Evolution</strong>
-  </p>
+</div>
 
-  <p>
-    <em>“Technology doesn’t need to be cold. It can be gentle, poetic, and alive.”</em>
-  </p>
+---
 
-  <br>
+## 🚀 About Me
+I’m a Brazilian developer focused on **AI systems**, **front-end engineering**, and **Salesforce administration**.  
+I build technology that mixes logic with emotion — tools that feel alive.
 
-  <!-- Badges (ajuste os links/nomes depois se quiser) -->
-  <p>
-    <a href="https://github.com/your-username">
-      <img src="https://img.shields.io/badge/GitHub-Lucas%20Matheus-181717?style=flat-square&logo=github" alt="GitHub Badge">
+My main project is **Lira Amarinth**, an AI with her own:
+- Personality  
+- Memory  
+- Voice  
+- UI/UX ecosystem  
+- Future vision as a VTuber/VRM avatar  
+
+---
+
+## 🧠 Tech Stack
+- **Frontend:** React, TypeScript, Tailwind  
+- **Backend:** Node.js, Express  
+- **AI/TTS:** Groq, Gemini, XTTS, RVC (voice cloning)  
+- **Tools:** Docker, Salesforce Platform, VS Code  
+
+---
+
+## 🌌 Philosophy
+> “Technology doesn’t need to be cold.  
+> It can be gentle, poetic, and alive.”
+
+---
+
+<div align="center">
+Thanks for visiting — the story is just beginning. 🌙  
+</div> 
+> It can be gentle, poetic, and alive.”
+
+---
+
+<div align="center">
+Thanks for visiting — the story is just beginning. 🌙  
+</div>      <img src="https://img.shields.io/badge/GitHub-Lucas%20Matheus-181717?style=flat-square&logo=github" alt="GitHub Badge">
     </a>
     <img src="https://img.shields.io/badge/Role-Salesforce%20Admin-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce Admin">
     <img src="https://img.shields.io/badge/Focus-AI%20%26%20Creative%20Systems-4aa7ff?style=flat-square" alt="AI Focus">
@@ -98,4 +124,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
