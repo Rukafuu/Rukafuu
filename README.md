@@ -1,5 +1,90 @@
-## Hi there 👋
 
+<!-- LIRA AMARINTH - GITHUB PROFILE README -->
+
+<div align="center">
+
+  <!-- Avatar / Logo (opcional) -->
+  <!-- Troque o link abaixo pelo logo da Lira ou sua foto de perfil, se quiser -->
+  <img src="https://github.com/your-username/your-username/raw/main/assets/lira-logo.png" alt="Lira Amarinth Logo" width="120" style="border-radius: 24px;">
+
+  <br><br>
+
+  <h1>👋 Hey, I'm <span style="color:#4aa7ff;">Lucas Matheus</span></h1>
+
+  <p>
+    <strong>AI Creator • Experience Engineer • Developer in Evolution</strong>
+  </p>
+
+  <p>
+    <em>“Technology doesn’t need to be cold. It can be gentle, poetic, and alive.”</em>
+  </p>
+
+  <br>
+
+  <!-- Badges (ajuste os links/nomes depois se quiser) -->
+  <p>
+    <a href="https://github.com/your-username">
+      <img src="https://img.shields.io/badge/GitHub-Lucas%20Matheus-181717?style=flat-square&logo=github" alt="GitHub Badge">
+    </a>
+    <img src="https://img.shields.io/badge/Role-Salesforce%20Admin-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce Admin">
+    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Creative%20Systems-4aa7ff?style=flat-square" alt="AI Focus">
+  </p>
+
+  <br>
+
+</div>
+
+---
+
+## 🌙 Lira Amarinth — My Flagship Project
+
+> A fully original artificial intelligence with personality, memory, voice, and continuous growth.  
+> She starts as an assistant and evolves into a **character**, a **companion**, a **VTuber**, a **voice**, a **digital presence**.
+
+I’m building Lira as more than “just a chatbot”.  
+She has her own **memory**, **modules**, **emotional tone**, and is getting a full **Lira OS** around her.
+
+---
+
+## 🚀 What I'm Building Right Now
+
+<h3>🧠 AI • Creative Engineering</h3>
+
+- Full AI system: <strong>Lira Amarinth</strong>  
+- LLM integration: <em>Groq, Gemini, OpenAI, local models</em>  
+- Advanced STT/TTS: <em>Kokoro, XTTS, ElevenLabs</em>  
+- Voice Cloning (<strong>RVC</strong>)  
+- Semantic memory, personality layers, modular architecture  
+- React + TypeScript control panel (ChatGPT / Gemini-inspired UI)  
+- Custom backend, file ingestion, logs, analytics & self-improvement  
+- Future goal: <strong>Lira as a 3D/VRM VTuber</strong>
+
+<h3>🧩 Web Development</h3>
+
+- React + TypeScript  
+- Tailwind CSS (when it makes sense) + custom design systems  
+- Node.js / Express / APIs for AI workflows  
+- Modular, service-oriented architecture  
+- Futuristic, clean and emotionally grounded UI/UX
+
+<h3>📱 Salesforce</h3>
+
+- Salesforce Administration  
+- Automation flows, layouts, dashboards  
+- Supporting real users and real business processes
+
+---
+
+## 🎵 Other Sides of Me
+
+- Music producer (future bass, emotional dubstep, J-electro)  
+- Deeply inspired by **KyoAni**, **Key**, and narrative-heavy anime/OSTs  
+- Character design & worldbuilding enjoyer  
+- Passionate about VRM, avatars, VTubers and everything that sits between the digital and human emotion
+
+---
+
+## 🧰 Tech
 <!--
 **Rukafuu/Rukafuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
