@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/your-username/your-username/raw/main/assets/lira-logo.png" width="110" alt="Lira Amarinth Logo" style="border-radius:16px;"/>
+<img src="https://github.com/Rukafuu/Rukafuu/raw/main/assets/lira-logo.png" width="110" alt="Lira Amarinth Logo" style="border-radius:16px;"/>
 
 <br><br>
 
-### 🌙 Lucas Matheus  
+### 🌙 Lucas Frischeisen  
 **Creator of Lira Amarinth — AI with Memory, Personality & Voice**
 
 <br>
