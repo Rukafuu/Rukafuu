@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Rukafuu/Rukafuu/raw/main/assets/lira-logo.png" width="110" alt="Lira Amarinth Logo" style="border-radius:16px;"/>
 
 <br><br>
 
