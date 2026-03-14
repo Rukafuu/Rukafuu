@@ -259,7 +259,7 @@ Core autônomo para criação de personalidades VTuber.
 ### 📊 [SmartCompare](https://github.com/Rukafuu/SmartCompare)
 
 **LLM Benchmarking Tool**
-Rankeamento e análise de performance de LLMs.
+Rankeamento e análise de performance de Smartphones.
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-4338ca?style=flat-square&logo=typescript&logoColor=white"/>
@@ -275,7 +275,7 @@ Rankeamento e análise de performance de LLMs.
 | :---------------------- | :--------------- | :----------------------------------- |
 | **LiraOS**              | AI Ecosystem     | IA Companion com MCP e RAG           |
 | **FukkaVT**             | AI Entertainment | Sistema Autônomo de VTubers          |
-| **SmartCompare**        | AI/Data          | Benchmarking de Modelos de Linguagem |
+| **SmartCompare**        | AI/Data          | Benchmarking de Modelos de Celulares |
 | **Developer Dashboard** | Frontend/Ops     | Controle de métricas do ecossistema  |
 
 </div>
