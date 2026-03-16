@@ -120,6 +120,7 @@ public class LucasFrischeisen {
 
 <div align="center">
   <h1>📊 Estatísticas</h1>
+  <img src="https://count.getloli.com/get/@Rukafuu?theme=booru-lewd" alt="Moe Counter" />
 </div>
 
 <div align="center">
@@ -259,7 +260,7 @@ Core autônomo para criação de personalidades VTuber.
 ### 📊 [SmartCompare](https://github.com/Rukafuu/SmartCompare)
 
 **LLM Benchmarking Tool**
-Rankeamento e análise de performance de Smartphones.
+Rankeamento e análise de performance de LLMs.
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-4338ca?style=flat-square&logo=typescript&logoColor=white"/>
@@ -275,7 +276,7 @@ Rankeamento e análise de performance de Smartphones.
 | :---------------------- | :--------------- | :----------------------------------- |
 | **LiraOS**              | AI Ecosystem     | IA Companion com MCP e RAG           |
 | **FukkaVT**             | AI Entertainment | Sistema Autônomo de VTubers          |
-| **SmartCompare**        | AI/Data          | Benchmarking de Modelos de Celulares |
+| **SmartCompare**        | AI/Data          | Benchmarking de Modelos de Linguagem |
 | **Developer Dashboard** | Frontend/Ops     | Controle de métricas do ecossistema  |
 
 </div>
@@ -295,4 +296,3 @@ Rankeamento e análise de performance de Smartphones.
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
-
