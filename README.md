@@ -96,16 +96,16 @@ public class LucasFrischeisen {
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=LiraOS&theme=tokyonight&border_color=7C3AED&title_color=7C3AED&v=1" width="380" /></td>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=CAFUNE&theme=tokyonight&border_color=7C3AED&title_color=7C3AED&v=1" width="380" /></td>
+      <td align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=LiraOS&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
+      <td align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=CAFUNE&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=PortarIA&theme=tokyonight&border_color=7C3AED&title_color=7C3AED&v=1" width="380" /></td>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=Yume-no-Sekai&theme=tokyonight&border_color=7C3AED&title_color=7C3AED&v=1" width="380" /></td>
+      <td align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=PortarIA&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
+      <td align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=Yume-no-Sekai&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=Raegis&theme=tokyonight&border_color=7C3AED&title_color=7C3AED&v=1" width="380" /></td>
-      <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=Scrobblefy&theme=tokyonight&border_color=7C3AED&title_color=7C3AED&v=1" width="380" /></td>
+      <td align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=Raegis&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
+      <td align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=Scrobblefy&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
     </tr>
   </table>
 </div>
