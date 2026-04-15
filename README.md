@@ -1,11 +1,11 @@
 <a id="inicio"></a>
 
 <div align="center">
-  <a href="#sobre-mim"><img src="https://img.shields.io/badge/Sobre_Mim-7C3AED?style=for-the-badge" /></a>
-  <a href="#skills--proficiência"><img src="https://img.shields.io/badge/Skills_&_Tech-7C3AED?style=for-the-badge" /></a>
+  <a href="#sobre"><img src="https://img.shields.io/badge/Sobre_Mim-7C3AED?style=for-the-badge" /></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/Skills_&_Tech-7C3AED?style=for-the-badge" /></a>
   <a href="#scripts"><img src="https://img.shields.io/badge/Projetos_&_Scripts-7C3AED?style=for-the-badge" /></a>
-  <a href="#estatísticas"><img src="https://img.shields.io/badge/Estatísticas-7C3AED?style=for-the-badge" /></a>
-  <a href="#anime--manga-status"><img src="https://img.shields.io/badge/Anime_&_Mangá-7C3AED?style=for-the-badge" /></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/Estatísticas-7C3AED?style=for-the-badge" /></a>
+  <a href="#animes"><img src="https://img.shields.io/badge/Anime_&_Mangá-7C3AED?style=for-the-badge" /></a>
 </div>
 
 <br>
@@ -22,6 +22,7 @@
 
 <br>
 
+<a id="sobre"></a>
 ## Sobre Mim
 
 "Eu não desenvolvo softwares, eu crio personagens e ecossistemas inteligentes."
@@ -33,7 +34,7 @@ public class LucasFrischeisen {
     String focus = "AI Engineering && Performance Computing";
     String[] stack = { "Haskell", "Julia", "Rust", "Python", "CUDA" };
     boolean innovating = true;
-
+    
     public void createEcossystem() {
         while(innovating) {
             CAFUNE.optimize();
@@ -46,6 +47,7 @@ public class LucasFrischeisen {
 
 ---
 
+<a id="skills"></a>
 ## Skills & Proficiência
 
 <div align="center">
@@ -88,27 +90,29 @@ public class LucasFrischeisen {
 
 ---
 
+<a id="scripts"></a>
 ## Scripts
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/Rukafuu/LiraOS/main/Chat/assets/lira-banner.png" height="50px" /><br><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=LiraOS&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Rukafuu/CAFUNE/main/assets/logo.png" height="50px" /><br><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=CAFUNE&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=LiraOS&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=CAFUNE&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/Rukafuu/PortarIA/main/assets/logo.png" height="50px" /><br><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=PortarIA&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Rukafuu/Yume-no-Sekai/main/engine/frontend/src/assets/logo.png" height="50px" /><br><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=Yume-no-Sekai&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=PortarIA&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=Yume-no-Sekai&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/Rukafuu/Raegis/main/assets/raegis_logo.png" height="50px" /><br><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=Raegis&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Rukafuu/Scrobblefy/main/public/logo.png" height="50px" /><br><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=Scrobblefy&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=Raegis&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rukafuu&repo=Scrobblefy&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
     </tr>
   </table>
 </div>
 
 ---
 
+<a id="stats"></a>
 ## Estatísticas
 
 <div align="center">
@@ -118,6 +122,7 @@ public class LucasFrischeisen {
 
 ---
 
+<a id="animes"></a>
 ## Anime & Manga Status
 
 <div align="center">
@@ -200,13 +205,12 @@ public class LucasFrischeisen {
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <code>[ SYSTEM_USER_COUNT ]</code>
-  <br><br>
-  <img src="https://count.getloli.com/get/@Rukafuu?theme=booru-lewd" alt="Counter" />
-</div>
+
 
 <br><br>
 
+<div align="right">
+  <a href="#inicio">
+    <img src="https://img.shields.io/badge/Voltar_ao_Inicio-%E2%86%A1-7C3AED?style=for-the-badge" />
+  </a>
 </div>
