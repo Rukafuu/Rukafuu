@@ -51,7 +51,7 @@ public class LucasFrischeisen {
 ## Skills & Proficiência
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=20&width=450&lines=AI+/+RAG+Processing+[▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒];Backend+Architecture+[▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░];Frontend+Engineering+[▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░];Systems+Performance+[▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░]">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=20&width=450&lines=AI+/+RAG+Processing+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒;Backend+Architecture+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░;Frontend+Engineering+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░;Systems+Performance+▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░░░">
 </div>
 
 <br>
