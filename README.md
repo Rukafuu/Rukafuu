@@ -96,16 +96,16 @@ public class LucasFrischeisen {
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=LiraOS&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
-      <td align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=CAFUNE&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
+      <td align="center"><a href="https://github.com/Rukafuu/LiraOS"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=LiraOS&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/CAFUNE"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=CAFUNE&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=PortarIA&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
-      <td align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=Yume-no-Sekai&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
+      <td align="center"><a href="https://github.com/Rukafuu/PortarIA"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=PortarIA&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/Yume-no-Sekai"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=Yume-no-Sekai&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
     </tr>
     <tr>
-      <td align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=Raegis&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
-      <td align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=Scrobblefy&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></td>
+      <td align="center"><a href="https://github.com/Rukafuu/Raegis"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=Raegis&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/Scrobblefy"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=Scrobblefy&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
     </tr>
   </table>
 </div>
@@ -118,8 +118,8 @@ public class LucasFrischeisen {
 <div align="center">
   <img src="https://count.getloli.com/get/@Rukafuu?theme=booru-lewd" alt="Moe Counter" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rukafuu&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukafuu&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&hide=makefile" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rukafuu&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rukafuu&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&hide=makefile" height="170" />
 </div>
 
 ---
