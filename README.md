@@ -199,7 +199,7 @@ public class LucasFrischeisen {
   <a href="https://discord.com/users/334099538803425280">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://liraos.xyz">
+  <a href="https://portfolio.lucas-frischeisen.workers.dev/">
     <img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:contato@rukafuu.dev">
