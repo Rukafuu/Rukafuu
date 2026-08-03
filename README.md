@@ -59,7 +59,7 @@ const lucas = {
 
 </div>
 
-- **Tsuma** — novo projeto em construção.
+- **Tsuma** — Companheira de código via MCP, criada para te acompanhar no Codex, Claude Code, Antigravity e Cursor.
 - **AAG Agent Protocol** — protocolo e framework de avaliação para contexto estrutural verificável em agentes de código.
 - **LiraVtuber** — companion local com voz, memória híbrida, ferramentas e Live2D.
 - **Raí** — análise musical explicável com DSP, FFmpeg, librosa e visualização desktop.
