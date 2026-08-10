@@ -147,8 +147,8 @@ const lucas = {
 <div align="center">
   <img src="https://count.getloli.com/get/@Rukafuu?theme=booru-lewd" alt="Moe Counter" />
   <br><br>
-  <img src="https://github-stats-extended.vercel.app/api?username=Rukafuu&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED&include_all_commits=true&locale=pt-br" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rukafuu&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&hide=makefile&langs_count=8&size_weight=0.5&count_weight=0.5&locale=pt-br" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Rukafuu&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED&include_all_commits=true&locale=pt-br&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rukafuu&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&hide=makefile&langs_count=8&size_weight=0.5&count_weight=0.5&locale=pt-br&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
 </div>
 
 ---
