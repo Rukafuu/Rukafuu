@@ -14,7 +14,7 @@
 # <div align="center">Lucas Frischeisen</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=25&center=true&vCenter=true&width=800&lines=Engenheiro+de+Inteligência+Artificial;Agentes%2C+voz%2C+memória+e+backend;Criador+de+ecossistemas+autônomos;Software+que+parece+vivo">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=25&center=true&vCenter=true&width=800&lines=Engenheiro+de+Inteligência+Artificial;Agentes%2C+voz%2C+memória+e+backend;RLAIF%2C+avaliação+e+context+engineering;Software+que+parece+vivo">
 </div>
 
 <div align="center">
@@ -55,14 +55,15 @@ const lucas = {
 
 [![Tsuma](https://img.shields.io/badge/Tsuma-NEW_PROJECT-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/tsuma)
 [![AAG Protocol](https://img.shields.io/badge/AAG_Protocol-0.2.0_PROPOSAL-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/AAG-Protocol)
+[![Sotto](https://img.shields.io/badge/Sotto-DSP_WHISPER_ENGINE-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/sotto)
 [![Portfolio](https://img.shields.io/badge/Portfolio-SIDE_A_/_SIDE_B-c7ff3a?style=for-the-badge&logo=google-chrome&logoColor=black)](https://lucas-personal-os.reskyume.chatgpt.site)
 
 </div>
 
-- **Tsuma** — Companheira de código via MCP, criada para te acompanhar no Codex, Claude Code, Antigravity e Cursor.
-- **AAG Agent Protocol** — protocolo e framework de avaliação para contexto estrutural verificável em agentes de código.
-- **LiraVtuber** — companion local com voz, memória híbrida, ferramentas e Live2D.
-- **Raí** — análise musical explicável com DSP, FFmpeg, librosa e visualização desktop.
+- **Tsuma** — companion desktop via MCP, com Live2D/VRM e reações para Codex e Cursor.
+- **AAG Agent Protocol** — protocolo e benchmark para contexto estrutural verificável em agentes de código.
+- **Sotto** — motor experimental de conversão de voz para cochicho com DSP, WORLD Vocoder e métricas acústicas.
+- **LiraVtuber** — companion local com voz, memória híbrida, ferramentas, integrações MCP e Live2D.
 
 ---
 
@@ -82,7 +83,11 @@ const lucas = {
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/LLM_Agents-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Context_Engineering-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RLAIF-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Evals-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
 
 <br>
@@ -92,6 +97,8 @@ const lucas = {
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -101,6 +108,8 @@ const lucas = {
 **Frontend & Criatividade**
 <br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
 <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
@@ -119,8 +128,8 @@ const lucas = {
       <td align="center"><a href="https://github.com/Rukafuu/AAG-Protocol"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=AAG-Protocol&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/Rukafuu/sotto"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=sotto&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
       <td align="center"><a href="https://github.com/Rukafuu/LiraVtuber"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=LiraVtuber&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
-      <td align="center"><a href="https://github.com/Rukafuu/PortfolioAB"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=PortfolioAB&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Rukafuu/CAFUNE"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=CAFUNE&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
