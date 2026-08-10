@@ -145,7 +145,7 @@ const lucas = {
 ## Estatísticas
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@Rukafuu?theme=booru-lewd" alt="Moe Counter" />
+  <img src="https://count.getloli.com/get/@Rukafuu?theme=booru-lewd&v=2" alt="Moe Counter" />
   <br><br>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rukafuu&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rukafuu&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&hide=makefile" height="170" />
