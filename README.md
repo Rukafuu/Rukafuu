@@ -125,16 +125,16 @@ const lucas = {
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://github.com/Rukafuu/tsuma"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=tsuma&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
-      <td align="center"><a href="https://github.com/Rukafuu/AAG-Protocol"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=AAG-Protocol&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/tsuma"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=tsuma&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/AAG-Protocol"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=AAG-Protocol&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Rukafuu/sotto"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=sotto&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
-      <td align="center"><a href="https://github.com/Rukafuu/LiraVtuber"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=LiraVtuber&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/sotto"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=sotto&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/LiraVtuber"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=LiraVtuber&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Rukafuu/CAFUNE"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=CAFUNE&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
-      <td align="center"><a href="https://github.com/Rukafuu/PortarIA"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Rukafuu&repo=PortarIA&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/CAFUNE"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=CAFUNE&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/PortarIA"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=PortarIA&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
     </tr>
   </table>
 </div>
@@ -145,10 +145,10 @@ const lucas = {
 ## Estatísticas
 
 <div align="center">
-  <img src="https://count.dsrkafuu.net/Rukafuu?theme=moebooru&length=7&render=pixelated" alt="Moe Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Rukafuu&label=VISITAS_AO_PERFIL&color=7C3AED&style=for-the-badge" alt="Visitas ao perfil" />
   <br><br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rukafuu&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rukafuu&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&hide=makefile" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Rukafuu&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED&include_all_commits=true&rank_icon=percentile&locale=pt-br" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rukafuu&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&hide=makefile&langs_count=8&size_weight=0.5&count_weight=0.5&locale=pt-br" height="170" />
 </div>
 
 ---
