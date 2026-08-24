@@ -9,16 +9,14 @@
   <a href="#animes"><img src="https://img.shields.io/badge/anime-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
 </div>
 
-<br>
+<div align="center">
+  <img src="./assets/madoka-magica.gif" width="100%" alt="Madoka Magica" />
+</div>
 
 <h1 align="center">Lucas Frischeisen ✦</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF5C9D&size=25&center=true&vCenter=true&width=800&lines=Engenheiro+de+Inteligência+Artificial;Agentes%2C+voz%2C+memória+e+backend;RLAIF%2C+avaliação+e+context+engineering;Software+que+parece+vivo">
-</div>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/0c/c7/ef/0cc7ef432daede092f1cea4cbde33e79.gif" width="100%" alt="Madoka Magica" />
 </div>
 
 <br>
@@ -53,10 +51,12 @@ const lucas = {
 
 <div align="center">
 
-[![Tsuma](https://img.shields.io/badge/Tsuma-NEW_PROJECT-FF5C9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/tsuma)
-[![AAG Protocol](https://img.shields.io/badge/AAG_Protocol-0.2.0_PROPOSAL-FF5C9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/AAG-Protocol)
-[![Sotto](https://img.shields.io/badge/Sotto-DSP_WHISPER_ENGINE-FF80B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/sotto)
-[![Portfolio](https://img.shields.io/badge/Portfolio-SIDE_A_/_SIDE_B-FFD1E6?style=for-the-badge&logo=google-chrome&logoColor=black)](https://lucas-personal-os.reskyume.chatgpt.site)
+[![DEUS](https://img.shields.io/badge/DEUS-C_language-FF5C9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/DEUS)
+[![DEUS VSCode](https://img.shields.io/badge/DEUS_VSCode-language_support-DA6AA6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Rukafuu/DEUS-Vscode)
+[![TimeWarp](https://img.shields.io/badge/TimeWarp-observability-F06AAB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/TimeWarp)
+[![Ketchup](https://img.shields.io/badge/Ketchup-Go_CLI-FF80B5?style=for-the-badge&logo=go&logoColor=white)](https://github.com/Rukafuu/Ketchup)
+[![LiraOS](https://img.shields.io/badge/LiraOS-AI_companion-C84E91?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Rukafuu/LiraOS)
+[![ExpoMCP](https://img.shields.io/badge/ExpoMCP-Android_toolkit-FFB3D5?style=for-the-badge&logo=expo&logoColor=3A1530)](https://github.com/Rukafuu/ExpoMCP)
 
 </div>
 
@@ -130,30 +130,20 @@ const lucas = {
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://github.com/Rukafuu/tsuma"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=tsuma&theme=radical&border_color=FF5C9D&title_color=FF5C9D" /></a></td>
-      <td align="center"><a href="https://github.com/Rukafuu/AAG-Protocol"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=AAG-Protocol&theme=radical&border_color=FF5C9D&title_color=FF5C9D" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/DEUS"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=DEUS&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/DEUS-Vscode"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=DEUS-Vscode&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Rukafuu/sotto"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=sotto&theme=radical&border_color=FF5C9D&title_color=FF5C9D" /></a></td>
-      <td align="center"><a href="https://github.com/Rukafuu/LiraVtuber"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=LiraVtuber&theme=radical&border_color=FF5C9D&title_color=FF5C9D" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/PortfolioAB"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=PortfolioAB&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/ecos-de-nexus"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=ecos-de-nexus&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Rukafuu/CAFUNE"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=CAFUNE&theme=radical&border_color=FF5C9D&title_color=FF5C9D" /></a></td>
-      <td align="center"><a href="https://github.com/Rukafuu/PortarIA"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=PortarIA&theme=radical&border_color=FF5C9D&title_color=FF5C9D" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/Ketchup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=Ketchup&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/TimeWarp"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=TimeWarp&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
     </tr>
   </table>
 </div>
 
-
-<div align="center">
-  <sub>✦ novidades no grimório ✦</sub><br><br>
-  <a href="https://github.com/Rukafuu/DEUS"><img src="https://img.shields.io/badge/DEUS-C%2F_language-FF5C9D?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Rukafuu/TimeWarp"><img src="https://img.shields.io/badge/TimeWarp-observability-DA6AA6?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Rukafuu/Ketchup"><img src="https://img.shields.io/badge/Ketchup-Go_CLI-F06AAB?style=for-the-badge&logo=go&logoColor=white" /></a>
-  <a href="https://github.com/Rukafuu/LiraOS"><img src="https://img.shields.io/badge/LiraOS-AI_companion-FF80B5?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a href="https://github.com/Rukafuu/ExpoMCP"><img src="https://img.shields.io/badge/ExpoMCP-Android_toolkit-C84E91?style=for-the-badge&logo=expo&logoColor=white" /></a>
-  <a href="https://github.com/Rukafuu/PortfolioAB"><img src="https://img.shields.io/badge/PortfolioAB-PopArt-FFB3D5?style=for-the-badge&logo=google-chrome&logoColor=3A1530" /></a>
-</div>
 ---
 
 <a id="stats"></a>
@@ -187,7 +177,6 @@ const lucas = {
     </tr>
   </table>
 </div>
-
 <br>
 
 <div align="center">
