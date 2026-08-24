@@ -58,20 +58,6 @@ const lucas = {
 [![LiraOS](https://img.shields.io/badge/LiraOS-AI_companion-C84E91?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Rukafuu/LiraOS)
 [![ExpoMCP](https://img.shields.io/badge/ExpoMCP-Android_toolkit-FFB3D5?style=for-the-badge&logo=expo&logoColor=3A1530)](https://github.com/Rukafuu/ExpoMCP)
 
-</div>
-
-- **Tsuma** — companion desktop via MCP, com Live2D/VRM e reações para Codex e Cursor.
-- **AAG Agent Protocol** — protocolo e benchmark para contexto estrutural verificável em agentes de código.
-- **Sotto** — motor experimental de conversão de voz para cochicho com DSP, WORLD Vocoder e métricas acústicas.
-- **LiraVtuber** — companion local com voz, memória híbrida, ferramentas, integrações MCP e Live2D.
-
-- **[DEUS](https://github.com/Rukafuu/DEUS)** — linguagem experimental para ideias que merecem existir fora da caixa.
-- **[TimeWarp](https://github.com/Rukafuu/TimeWarp)** — observabilidade distribuída que reconstitui e reproduz cadeias causais.
-- **[Ketchup](https://github.com/Rukafuu/Ketchup)** — CLI em Go para manter contexto de desenvolvimento sempre fresco.
-- **[LiraOS](https://github.com/Rukafuu/LiraOS)** — voz, memória e presença para uma companion IA.
-- **[ExpoMCP](https://github.com/Rukafuu/ExpoMCP)** — ferramenta MCP open source para Android + Expo.
----
-
 <a id="skills"></a>
 ## ✧ Skills & Proficiência
 
