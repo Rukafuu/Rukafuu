@@ -134,8 +134,8 @@ const lucas = {
       <td align="center"><a href="https://github.com/Rukafuu/DEUS-Vscode"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=DEUS-Vscode&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
     </tr>
     <tr>
+      <td align="center"><a href="https://github.com/Rukafuu/LiraOS"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=LiraOS&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
       <td align="center"><a href="https://github.com/Rukafuu/PortfolioAB"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=PortfolioAB&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
-      <td align="center"><a href="https://github.com/Rukafuu/ecos-de-nexus"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=ecos-de-nexus&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/Rukafuu/Ketchup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=Ketchup&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
