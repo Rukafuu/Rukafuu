@@ -14,7 +14,7 @@
 <h1 align="center">Lucas Frischeisen ✦</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=25&center=true&vCenter=true&width=800&lines=Engenheiro+de+Inteligência+Artificial;Agentes%2C+voz%2C+memória+e+backend;RLAIF%2C+avaliação+e+context+engineering;Software+que+parece+vivo">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF5C9D&size=25&center=true&vCenter=true&width=800&lines=Engenheiro+de+Inteligência+Artificial;Agentes%2C+voz%2C+memória+e+backend;RLAIF%2C+avaliação+e+context+engineering;Software+que+parece+vivo">
 </div>
 
 <div align="center">
@@ -53,10 +53,10 @@ const lucas = {
 
 <div align="center">
 
-[![Tsuma](https://img.shields.io/badge/Tsuma-NEW_PROJECT-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/tsuma)
-[![AAG Protocol](https://img.shields.io/badge/AAG_Protocol-0.2.0_PROPOSAL-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/AAG-Protocol)
-[![Sotto](https://img.shields.io/badge/Sotto-DSP_WHISPER_ENGINE-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/sotto)
-[![Portfolio](https://img.shields.io/badge/Portfolio-SIDE_A_/_SIDE_B-c7ff3a?style=for-the-badge&logo=google-chrome&logoColor=black)](https://lucas-personal-os.reskyume.chatgpt.site)
+[![Tsuma](https://img.shields.io/badge/Tsuma-NEW_PROJECT-FF5C9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/tsuma)
+[![AAG Protocol](https://img.shields.io/badge/AAG_Protocol-0.2.0_PROPOSAL-FF5C9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/AAG-Protocol)
+[![Sotto](https://img.shields.io/badge/Sotto-DSP_WHISPER_ENGINE-FF80B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/sotto)
+[![Portfolio](https://img.shields.io/badge/Portfolio-SIDE_A_/_SIDE_B-FFD1E6?style=for-the-badge&logo=google-chrome&logoColor=black)](https://lucas-personal-os.reskyume.chatgpt.site)
 
 </div>
 
@@ -65,13 +65,18 @@ const lucas = {
 - **Sotto** — motor experimental de conversão de voz para cochicho com DSP, WORLD Vocoder e métricas acústicas.
 - **LiraVtuber** — companion local com voz, memória híbrida, ferramentas, integrações MCP e Live2D.
 
+- **[DEUS](https://github.com/Rukafuu/DEUS)** — linguagem experimental para ideias que merecem existir fora da caixa.
+- **[TimeWarp](https://github.com/Rukafuu/TimeWarp)** — observabilidade distribuída que reconstitui e reproduz cadeias causais.
+- **[Ketchup](https://github.com/Rukafuu/Ketchup)** — CLI em Go para manter contexto de desenvolvimento sempre fresco.
+- **[LiraOS](https://github.com/Rukafuu/LiraOS)** — voz, memória e presença para uma companion IA.
+- **[ExpoMCP](https://github.com/Rukafuu/ExpoMCP)** — ferramenta MCP open source para Android + Expo.
 ---
 
 <a id="skills"></a>
 ## ✧ Skills & Proficiência
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=20&width=500&lines=AI+/+Agent+Systems+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒;Backend+Architecture+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░;Context+Engineering+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░;Creative+Software+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF5C9D&size=20&width=500&lines=AI+/+Agent+Systems+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒;Backend+Architecture+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░;Context+Engineering+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░;Creative+Software+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░">
 </div>
 
 <br>
@@ -80,40 +85,40 @@ const lucas = {
 
 **AI & Motores Neurais**
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM_Agents-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Context_Engineering-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RLAIF-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Evals-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-D95892?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-FF6FAE?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Agents-FF5C9D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Context_Engineering-FF5C9D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-4A183A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RLAIF-FF5C9D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Evals-FF5C9D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/n8n-E84D91?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/FFmpeg-A93D72?style=for-the-badge&logo=ffmpeg&logoColor=white" />
 
 <br>
 
 **Backend & Sistemas**
 <br>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-E55B9B?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-BF4E87?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Fastify-3A1530?style=for-the-badge&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-C65091?style=for-the-badge&logo=zod&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-3A1530?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-E772AE?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-3A1530?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-D95B9B?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-C55390?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <br>
 
 **Frontend & Criatividade**
 <br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/React-FFA3CB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-FFA3CB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Expo-3A1530?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Tauri-E77FB2?style=for-the-badge&logo=tauri&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-3A1530?style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F06AAB?style=for-the-badge&logo=cloudflare&logoColor=white" />
 
 </div>
 
@@ -125,30 +130,40 @@ const lucas = {
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://github.com/Rukafuu/tsuma"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=tsuma&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
-      <td align="center"><a href="https://github.com/Rukafuu/AAG-Protocol"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=AAG-Protocol&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/tsuma"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=tsuma&theme=radical&border_color=FF5C9D&title_color=FF5C9D" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/AAG-Protocol"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=AAG-Protocol&theme=radical&border_color=FF5C9D&title_color=FF5C9D" /></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Rukafuu/sotto"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=sotto&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
-      <td align="center"><a href="https://github.com/Rukafuu/LiraVtuber"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=LiraVtuber&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/sotto"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=sotto&theme=radical&border_color=FF5C9D&title_color=FF5C9D" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/LiraVtuber"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=LiraVtuber&theme=radical&border_color=FF5C9D&title_color=FF5C9D" /></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Rukafuu/CAFUNE"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=CAFUNE&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
-      <td align="center"><a href="https://github.com/Rukafuu/PortarIA"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=PortarIA&theme=tokyonight&border_color=7C3AED&title_color=7C3AED" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/CAFUNE"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=CAFUNE&theme=radical&border_color=FF5C9D&title_color=FF5C9D" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/PortarIA"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=PortarIA&theme=radical&border_color=FF5C9D&title_color=FF5C9D" /></a></td>
     </tr>
   </table>
 </div>
 
+
+<div align="center">
+  <sub>✦ novidades no grimório ✦</sub><br><br>
+  <a href="https://github.com/Rukafuu/DEUS"><img src="https://img.shields.io/badge/DEUS-C%2F_language-FF5C9D?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Rukafuu/TimeWarp"><img src="https://img.shields.io/badge/TimeWarp-observability-DA6AA6?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Rukafuu/Ketchup"><img src="https://img.shields.io/badge/Ketchup-Go_CLI-F06AAB?style=for-the-badge&logo=go&logoColor=white" /></a>
+  <a href="https://github.com/Rukafuu/LiraOS"><img src="https://img.shields.io/badge/LiraOS-AI_companion-FF80B5?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://github.com/Rukafuu/ExpoMCP"><img src="https://img.shields.io/badge/ExpoMCP-Android_toolkit-C84E91?style=for-the-badge&logo=expo&logoColor=white" /></a>
+  <a href="https://github.com/Rukafuu/PortfolioAB"><img src="https://img.shields.io/badge/PortfolioAB-PopArt-FFB3D5?style=for-the-badge&logo=google-chrome&logoColor=3A1530" /></a>
+</div>
 ---
 
 <a id="stats"></a>
 ## ✦ Estatísticas
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@Rukafuu?theme=booru-lewd" alt="Moe Counter" />
+  <img src="https://count.getloli.com/get/@Rukafuu?theme=moebooru" alt="Moe Counter" />
   <br><br>
-  <img src="https://github-stats-extended.vercel.app/api?username=Rukafuu&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED&include_all_commits=true&locale=pt-br&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rukafuu&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&hide=makefile&langs_count=8&size_weight=0.5&count_weight=0.5&locale=pt-br&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Rukafuu&show_icons=true&theme=radical&hide_border=true&title_color=FF5C9D&icon_color=FF5C9D&include_all_commits=true&locale=pt-br&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rukafuu&layout=compact&theme=radical&hide_border=true&title_color=FF5C9D&hide=makefile&langs_count=8&size_weight=0.5&count_weight=0.5&locale=pt-br&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
 </div>
 
 ---
@@ -223,16 +238,16 @@ const lucas = {
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rukafuu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF5C9D?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.com/users/334099538803425280">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-DA6AA6?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://portfolio.lucas-frischeisen.workers.dev/">
-    <img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-FF5C9D?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:contato@rukafuu.dev">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-F06AAB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -240,6 +255,6 @@ const lucas = {
 
 <div align="right">
   <a href="#inicio">
-    <img src="https://img.shields.io/badge/Voltar_ao_Inicio-%E2%86%A1-7C3AED?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Voltar_ao_Inicio-%E2%86%A1-FF5C9D?style=for-the-badge" />
   </a>
 </div>
