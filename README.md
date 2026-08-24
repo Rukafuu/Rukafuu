@@ -1,32 +1,32 @@
 <a id="inicio"></a>
 
 <div align="center">
-  <a href="#sobre"><img src="https://img.shields.io/badge/Sobre_Mim-7C3AED?style=for-the-badge" /></a>
-  <a href="#construindo"><img src="https://img.shields.io/badge/Construindo_Agora-7C3AED?style=for-the-badge" /></a>
-  <a href="#skills"><img src="https://img.shields.io/badge/Skills_&_Tech-7C3AED?style=for-the-badge" /></a>
-  <a href="#scripts"><img src="https://img.shields.io/badge/Projetos_&_Scripts-7C3AED?style=for-the-badge" /></a>
-  <a href="#stats"><img src="https://img.shields.io/badge/Estatísticas-7C3AED?style=for-the-badge" /></a>
-  <a href="#animes"><img src="https://img.shields.io/badge/Anime_&_Mangá-7C3AED?style=for-the-badge" /></a>
+  <a href="#sobre"><img src="https://img.shields.io/badge/sobre-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+  <a href="#construindo"><img src="https://img.shields.io/badge/projetos-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/tech-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+  <a href="#scripts"><img src="https://img.shields.io/badge/projetos-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/stats-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+  <a href="#animes"><img src="https://img.shields.io/badge/anime-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
 </div>
 
 <br>
 
-# <div align="center">Lucas Frischeisen</div>
+<h1 align="center">Lucas Frischeisen ✦</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=25&center=true&vCenter=true&width=800&lines=Engenheiro+de+Inteligência+Artificial;Agentes%2C+voz%2C+memória+e+backend;RLAIF%2C+avaliação+e+context+engineering;Software+que+parece+vivo">
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/d2/36/6b/d2366b6e5e58927c07be39b861475f6d.gif" width="100%" style="border-radius:5px; border: 1px solid #7C3AED55">
+  <img src="https://i.pinimg.com/originals/0c/c7/ef/0cc7ef432daede092f1cea4cbde33e79.gif" width="100%" alt="Madoka Magica" />
 </div>
 
 <br>
 
 <a id="sobre"></a>
-## Sobre Mim
+## ✦ Sobre Mim
 
-> "Eu não desenvolvo apenas softwares. Eu crio personagens, ferramentas e ecossistemas inteligentes."
+> *“Eu não desenvolvo apenas softwares. Eu crio personagens, ferramentas e ecossistemas inteligentes.”*
 
 Sou **Engenheiro de IA e Backend**, trabalhando com agentes, RAG, memória, voz, avaliação de sistemas probabilísticos e arquitetura para produtos reais. Gosto de construir software que não pareça apenas mais um dashboard genérico: sistemas com identidade, comportamento e uma explicação técnica por trás do que fazem.
 
@@ -42,14 +42,14 @@ const lucas = {
     "reliable backend architecture",
   ],
   principle: "evidence before confidence",
-  currentlyPlaying: "something loud at 3 AM",
+  currentlyPlaying: "something magical and loud at 3 AM",
 };
 ```
 
 ---
 
 <a id="construindo"></a>
-## Construindo Agora
+## ♡ Construindo Agora
 
 <div align="center">
 
@@ -68,7 +68,7 @@ const lucas = {
 ---
 
 <a id="skills"></a>
-## Skills & Proficiência
+## ✧ Skills & Proficiência
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=20&width=500&lines=AI+/+Agent+Systems+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒;Backend+Architecture+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░;Context+Engineering+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░;Creative+Software+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░">
@@ -120,7 +120,7 @@ const lucas = {
 ---
 
 <a id="scripts"></a>
-## Projetos & Scripts
+## ☾ Projetos & Scripts
 
 <div align="center">
   <table>
@@ -142,7 +142,7 @@ const lucas = {
 ---
 
 <a id="stats"></a>
-## Estatísticas
+## ✦ Estatísticas
 
 <div align="center">
   <img src="https://count.getloli.com/get/@Rukafuu?theme=booru-lewd" alt="Moe Counter" />
@@ -154,7 +154,7 @@ const lucas = {
 ---
 
 <a id="animes"></a>
-## Anime & Manga Status
+## ♡ Anime & Manga Status
 
 <div align="center">
   <table>
@@ -219,7 +219,7 @@ const lucas = {
 
 ---
 
-## Conecte-se Comigo
+## ✧ Conecte-se Comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rukafuu/">
