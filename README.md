@@ -55,7 +55,7 @@ const lucas = {
 [![DEUS VSCode](https://img.shields.io/badge/DEUS_VSCode-language_support-DA6AA6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Rukafuu/DEUS-Vscode)
 [![TimeWarp](https://img.shields.io/badge/TimeWarp-observability-F06AAB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/TimeWarp)
 [![Ketchup](https://img.shields.io/badge/Ketchup-Go_CLI-FF80B5?style=for-the-badge&logo=go&logoColor=white)](https://github.com/Rukafuu/Ketchup)
-[![LiraOS](https://img.shields.io/badge/LiraOS-AI_companion-C84E91?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Rukafuu/LiraOS)
+[![GhostClock](https://img.shields.io/badge/GhostClock-C17_·_Win32-C84E91?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Rukafuu/GhostCLock)
 [![ExpoMCP](https://img.shields.io/badge/ExpoMCP-Android_toolkit-FFB3D5?style=for-the-badge&logo=expo&logoColor=3A1530)](https://github.com/Rukafuu/ExpoMCP)
 
 <a id="skills"></a>
@@ -120,7 +120,7 @@ const lucas = {
       <td align="center"><a href="https://github.com/Rukafuu/DEUS-Vscode"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=DEUS-Vscode&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Rukafuu/LiraOS"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=LiraOS&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
+      <td align="center"><a href="https://github.com/Rukafuu/GhostCLock"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=GhostCLock&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
       <td align="center"><a href="https://github.com/Rukafuu/PortfolioAB"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=PortfolioAB&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
     </tr>
     <tr>
@@ -218,7 +218,7 @@ const lucas = {
   <a href="https://discord.com/users/334099538803425280">
     <img src="https://img.shields.io/badge/Discord-DA6AA6?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://portfolio.lucas-frischeisen.workers.dev/">
+  <a href="https://lucas-personal-os.reskyume.chatgpt.site">
     <img src="https://img.shields.io/badge/Website-FF5C9D?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:contato@rukafuu.dev">
