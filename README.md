@@ -1,12 +1,12 @@
-<a id="inicio"></a>
+<a id="top"></a>
 
 <div align="center">
-  <a href="#sobre"><img src="https://img.shields.io/badge/sobre-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
-  <a href="#construindo"><img src="https://img.shields.io/badge/projetos-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+  <a href="#about"><img src="https://img.shields.io/badge/about-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+  <a href="#building"><img src="https://img.shields.io/badge/building-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
   <a href="#skills"><img src="https://img.shields.io/badge/tech-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
-  <a href="#scripts"><img src="https://img.shields.io/badge/projetos-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/projects-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
   <a href="#stats"><img src="https://img.shields.io/badge/stats-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
-  <a href="#animes"><img src="https://img.shields.io/badge/anime-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
+  <a href="#anime"><img src="https://img.shields.io/badge/anime-FF5C9D?style=flat-square&labelColor=2A1025" /></a>
 </div>
 
 <div align="center">
@@ -16,19 +16,19 @@
 <h1 align="center">Lucas Frischeisen ✦</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF5C9D&size=25&center=true&vCenter=true&width=800&lines=Engenheiro+de+Inteligência+Artificial;Agentes%2C+voz%2C+memória+e+backend;RLAIF%2C+avaliação+e+context+engineering;Software+que+parece+vivo">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF5C9D&size=25&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Agents%2C+voice%2C+memory+and+backend;RLAIF%2C+evaluation+and+context+engineering;Software+that+feels+alive">
 </div>
 
 <br>
 
-<a id="sobre"></a>
-## ✦ Sobre Mim
+<a id="about"></a>
+## ✦ About Me
 
-> *“Eu não desenvolvo apenas softwares. Eu crio personagens, ferramentas e ecossistemas inteligentes.”*
+> *“I don't just develop software. I create characters, tools, and intelligent ecosystems.”*
 
-Sou **Engenheiro de IA e Backend**, trabalhando com agentes, RAG, memória, voz, avaliação de sistemas probabilísticos e arquitetura para produtos reais. Gosto de construir software que não pareça apenas mais um dashboard genérico: sistemas com identidade, comportamento e uma explicação técnica por trás do que fazem.
+I'm an **AI & Backend Engineer** working with agents, RAG, memory, voice, probabilistic system evaluation, and architecture for real-world products. I like building software that doesn't feel like yet another generic dashboard: systems with identity, behavior, and a technical explanation behind what they do.
 
-Também produzo música eletrônica como **Reskyume/Rukafuu**, acompanho anime e visual novels com devoção pouco saudável e acredito que personalidade não é dívida técnica.
+I also produce electronic music as **Reskyume/Rukafuu**, follow anime and visual novels with a slightly unhealthy devotion, and believe personality is not technical debt.
 
 ```ts
 const lucas = {
@@ -46,8 +46,8 @@ const lucas = {
 
 ---
 
-<a id="construindo"></a>
-## ♡ Construindo Agora
+<a id="building"></a>
+## ♡ Building Now
 
 <div align="center">
 
@@ -59,7 +59,7 @@ const lucas = {
 [![ExpoMCP](https://img.shields.io/badge/ExpoMCP-Android_toolkit-FFB3D5?style=for-the-badge&logo=expo&logoColor=3A1530)](https://github.com/Rukafuu/ExpoMCP)
 
 <a id="skills"></a>
-## ✧ Skills & Proficiência
+## ✧ Skills & Proficiency
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF5C9D&size=20&width=500&lines=AI+/+Agent+Systems+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒;Backend+Architecture+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░;Context+Engineering+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░;Creative+Software+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░">
@@ -69,7 +69,7 @@ const lucas = {
 
 <div align="center">
 
-**AI & Motores Neurais**
+**AI & Neural Engines**
 <br>
 <img src="https://img.shields.io/badge/Python-D95892?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-FF6FAE?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -83,7 +83,7 @@ const lucas = {
 
 <br>
 
-**Backend & Sistemas**
+**Backend & Systems**
 <br>
 <img src="https://img.shields.io/badge/TypeScript-E55B9B?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-BF4E87?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -97,7 +97,7 @@ const lucas = {
 
 <br>
 
-**Frontend & Criatividade**
+**Frontend & Creative Work**
 <br>
 <img src="https://img.shields.io/badge/React-FFA3CB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/React_Native-FFA3CB?style=for-the-badge&logo=react&logoColor=black" />
@@ -110,8 +110,8 @@ const lucas = {
 
 ---
 
-<a id="scripts"></a>
-## ☾ Projetos & Scripts
+<a id="projects"></a>
+## ☾ Projects & Scripts
 
 <div align="center">
   <table>
@@ -133,18 +133,18 @@ const lucas = {
 ---
 
 <a id="stats"></a>
-## ✦ Estatísticas
+## ✦ Statistics
 
 <div align="center">
   <img src="https://count.getloli.com/get/@Rukafuu?theme=moebooru" alt="Moe Counter" />
   <br><br>
-  <img src="https://github-stats-extended.vercel.app/api?username=Rukafuu&show_icons=true&theme=radical&hide_border=true&title_color=FF5C9D&icon_color=FF5C9D&include_all_commits=true&locale=pt-br&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rukafuu&layout=compact&theme=radical&hide_border=true&title_color=FF5C9D&hide=makefile&langs_count=8&size_weight=0.5&count_weight=0.5&locale=pt-br&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Rukafuu&show_icons=true&theme=radical&hide_border=true&title_color=FF5C9D&icon_color=FF5C9D&include_all_commits=true&locale=en&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rukafuu&layout=compact&theme=radical&hide_border=true&title_color=FF5C9D&hide=makefile&langs_count=8&size_weight=0.5&count_weight=0.5&locale=en&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
 </div>
 
 ---
 
-<a id="animes"></a>
+<a id="anime"></a>
 ## ♡ Anime & Manga Status
 
 <div align="center">
@@ -167,7 +167,7 @@ const lucas = {
 
 <div align="center">
 
-**Top Animes Favoritos**
+**Favorite Anime**
 <br>
 <img src="https://images.weserv.nl/?url=i.pinimg.com/736x/58/9f/e8/589fe8121f21cecba8cdfc2c078d3428.jpg&mask=heart&w=60&h=60&fit=cover" title="Mushoku Tensei" />
 <img src="https://images.weserv.nl/?url=i.pinimg.com/736x/e5/52/35/e55235d93c7f49775262b709d67f3761.jpg&mask=heart&w=60&h=60&fit=cover" title="Steins;Gate" />
@@ -181,7 +181,7 @@ const lucas = {
 
 <br>
 
-**Top Mangas Favoritos**
+**Favorite Manga**
 <br>
 <img src="https://images.weserv.nl/?url=i.pinimg.com/736x/a1/22/f1/a122f18d4d8b126c025a6d1ded6e661e.jpg&mask=heart&w=60&h=60&fit=cover" title="Spice and Wolf" />
 <img src="https://images.weserv.nl/?url=i.pinimg.com/736x/a6/51/42/a65142bd158610121f28c558e47f27a4.jpg&mask=heart&w=60&h=60&fit=cover" title="Bloom Into You" />
@@ -192,7 +192,7 @@ const lucas = {
 
 <br>
 
-**Personagens Favoritos**
+**Favorite Characters**
 <br>
 <img src="https://images.weserv.nl/?url=i.pinimg.com/736x/0e/a7/1c/0ea71c4646c5d103bfc157d02a86d4d3.jpg&mask=heart&w=60&h=60&fit=cover" title="Roxy Migurdia" />
 <img src="https://images.weserv.nl/?url=i.pinimg.com/736x/bc/5e/8d/bc5e8d9939071a96b8730cd0e35c70e2.jpg&mask=heart&w=60&h=60&fit=cover" title="Nagisa Furukawa" />
@@ -209,7 +209,7 @@ const lucas = {
 
 ---
 
-## ✧ Conecte-se Comigo
+## ✧ Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rukafuu/">
@@ -229,7 +229,7 @@ const lucas = {
 <br><br>
 
 <div align="right">
-  <a href="#inicio">
-    <img src="https://img.shields.io/badge/Voltar_ao_Inicio-%E2%86%A1-FF5C9D?style=for-the-badge" />
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back_to_Top-%E2%86%A1-FF5C9D?style=for-the-badge" />
   </a>
 </div>
