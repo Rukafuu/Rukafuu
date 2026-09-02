@@ -13,7 +13,7 @@
   <img src="./assets/madoka-magica.gif" width="100%" alt="Madoka Magica" />
 </div>
 
-<h1 align="center">Lucas Frischeisen ✦</h1>
+<h1 align="center">✦Hello World, It's me Lucas Frischeisen ✦</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF5C9D&size=25&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Agents%2C+voice%2C+memory+and+backend;RLAIF%2C+evaluation+and+context+engineering;Software+that+feels+alive">
