@@ -16,7 +16,7 @@
 <h1 align="center">✦Hello World, It's me Lucas Frischeisen ✦</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF5C9D&size=25&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Agents%2C+voice%2C+memory+and+backend;RLAIF%2C+evaluation+and+context+engineering;Software+that+feels+alive">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF5C9D&size=25&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Agents%2C+voice%2C+memory+and+backend;Developer+tools%2C+evals+and+context+engineering;Software+that+feels+alive">
 </div>
 
 <br>
@@ -47,36 +47,30 @@ const lucas = {
 ---
 
 <a id="building"></a>
-## ♡ Building Now
+## ♡ Building & Exploring
 
 <div align="center">
 
-[![DEUS](https://img.shields.io/badge/DEUS-C_language-FF5C9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/DEUS)
+[![DEUS](https://img.shields.io/badge/DEUS-DSL_·_compiler_·_VM-FF5C9D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/DEUS)
 [![DEUS VSCode](https://img.shields.io/badge/DEUS_VSCode-language_support-DA6AA6?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Rukafuu/DEUS-Vscode)
-[![TimeWarp](https://img.shields.io/badge/TimeWarp-observability-F06AAB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/TimeWarp)
-[![Ketchup](https://img.shields.io/badge/Ketchup-Go_CLI-FF80B5?style=for-the-badge&logo=go&logoColor=white)](https://github.com/Rukafuu/Ketchup)
+[![TimeWarp](https://img.shields.io/badge/TimeWarp-HTTP_capture_·_replay-F06AAB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rukafuu/TimeWarp)
+[![Ketchup](https://img.shields.io/badge/Ketchup-workspace_drift-FF80B5?style=for-the-badge&logo=go&logoColor=white)](https://github.com/Rukafuu/Ketchup)
 [![GhostClock](https://img.shields.io/badge/GhostClock-C17_·_Win32-C84E91?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Rukafuu/GhostCLock)
-[![ExpoMCP](https://img.shields.io/badge/ExpoMCP-Android_toolkit-FFB3D5?style=for-the-badge&logo=expo&logoColor=3A1530)](https://github.com/Rukafuu/ExpoMCP)
+[![ExpoMCP](https://img.shields.io/badge/ExpoMCP-Expo_diagnostics_·_MCP-FFB3D5?style=for-the-badge&logo=expo&logoColor=3A1530)](https://github.com/Rukafuu/ExpoMCP)
 
-<a id="skills"></a>
-## ✧ Skills & Proficiency
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF5C9D&size=20&width=500&lines=AI+/+Agent+Systems+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒;Backend+Architecture+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░;Context+Engineering+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░;Creative+Software+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░">
 </div>
 
-<br>
+<a id="skills"></a>
+## ✧ Technologies & Practice
 
 <div align="center">
 
-**AI & Neural Engines**
+**AI & Agent Systems**
 <br>
 <img src="https://img.shields.io/badge/Python-D95892?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-FF6FAE?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/LLM_Agents-FF5C9D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Context_Engineering-FF5C9D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-4A183A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RLAIF-FF5C9D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Evals-FF5C9D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/n8n-E84D91?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/FFmpeg-A93D72?style=for-the-badge&logo=ffmpeg&logoColor=white" />
@@ -85,6 +79,7 @@ const lucas = {
 
 **Backend & Systems**
 <br>
+<img src="https://img.shields.io/badge/C17-C84E91?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-E55B9B?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-BF4E87?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Fastify-3A1530?style=for-the-badge&logo=fastify&logoColor=white" />
@@ -111,24 +106,54 @@ const lucas = {
 ---
 
 <a id="projects"></a>
-## ☾ Projects & Scripts
+## ☾ Selected Projects
 
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://github.com/Rukafuu/DEUS"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=DEUS&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
-      <td align="center"><a href="https://github.com/Rukafuu/DEUS-Vscode"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=DEUS-Vscode&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
+      <td align="center" valign="top" width="50%">
+        <a href="https://github.com/Rukafuu/LiraVtuber"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=LiraVtuber&theme=radical&border_color=FF5C9D&title_color=FF80B5" alt="LiraVtuber" /></a>
+        <p><strong>LiraVtuber · Voice & memory</strong><br>A Python desktop assistant combining voice, hybrid memory, local tools and Live2D interaction.</p>
+        <p><sub>Desktop assistant project</sub></p>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <a href="https://github.com/Rukafuu/AAG-Protocol"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=AAG-Protocol&theme=radical&border_color=FF5C9D&title_color=FF80B5" alt="AAG-Protocol" /></a>
+        <p><strong>AAG Protocol · Verifiable agent context</strong><br>A specification for evidence-based repository maps, with reference tooling to evaluate their impact on agents.</p>
+        <p><sub>Draft protocol · Experimental benchmark</sub></p>
+      </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Rukafuu/GhostCLock"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=GhostCLock&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
-      <td align="center"><a href="https://github.com/Rukafuu/PortfolioAB"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=PortfolioAB&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
+      <td align="center" valign="top">
+        <a href="https://github.com/Rukafuu/DEUS"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=DEUS&theme=radical&border_color=FF5C9D&title_color=FF80B5" alt="DEUS" /></a>
+        <p><strong>DEUS · Language, compiler & VM</strong><br>A specialized language for information retrieval pipelines, implemented in C17 with type checks and runtime resource limits.</p>
+        <p><sub>Experimental · <a href="https://github.com/Rukafuu/DEUS-Vscode">VS Code extension & native LSP</a></sub></p>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/Rukafuu/TimeWarp"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=TimeWarp&theme=radical&border_color=FF5C9D&title_color=FF80B5" alt="TimeWarp" /></a>
+        <p><strong>TimeWarp · Capture, inspect & replay</strong><br>Go tooling for local causal recording and HTTP replay, reproducing captured responses without contacting the original dependency.</p>
+        <p><sub>MVP · CLI & local MCP interface</sub></p>
+      </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/Rukafuu/Ketchup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=Ketchup&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
-      <td align="center"><a href="https://github.com/Rukafuu/TimeWarp"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=TimeWarp&theme=radical&border_color=FF5C9D&title_color=FF80B5" /></a></td>
+      <td align="center" valign="top">
+        <a href="https://github.com/Rukafuu/Ketchup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=Ketchup&theme=radical&border_color=FF5C9D&title_color=FF80B5" alt="Ketchup" /></a>
+        <p><strong>Ketchup · Workspace context</strong><br>A Go CLI and editor extension that detect Git, dependency and environment drift and summarize relevant changes since the last session.</p>
+        <p><sub>CLI · Published VS Code / Open VSX extension</sub></p>
+      </td>
+      <td align="center" valign="top">
+        <a href="https://github.com/Rukafuu/PortfolioAB"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=PortfolioAB&theme=radical&border_color=FF5C9D&title_color=FF80B5" alt="PortfolioAB" /></a>
+        <p><strong>PortfolioAB · Code & music</strong><br>A cassette-inspired portfolio built with React, TypeScript and Cloudflare, connecting technical projects, original music and a public Lira experience.</p>
+        <p><sub>Interactive portfolio · <a href="https://lucas-personal-os.reskyume.chatgpt.site">Website</a></sub></p>
+      </td>
     </tr>
   </table>
 </div>
+
+### More tools & past experiments
+
+- **[GhostClock](https://github.com/Rukafuu/GhostCLock)** — Experimental C17/Win32 performance tooling; the current MVP measures a baseline and applies reversible process-priority changes.
+- **[ExpoMCP](https://github.com/Rukafuu/ExpoMCP)** — A local MCP server for Expo/React Native project inspection, dependency checks and diagnostics.
+- **[LiraOS](https://github.com/Rukafuu/LiraOS)** — An AI companion ecosystem exploring agents, visual perception, voice and conversational memory. **Paused indefinitely; maintenance and public deployment suspended.**
 
 ---
 
