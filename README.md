@@ -60,6 +60,11 @@ const lucas = {
 
 </div>
 
+## ✦ Open Source Contributions
+
+- **[Laya #269](https://github.com/NandhaKishorM/laya/pull/269) — merged upstream.** Built a reproducible metamorphic harness for option-order permutations: canonical remapping, semantic agreement, probability and confidence drift, and Jensen-Shannon divergence — reported without an arbitrary pass/fail threshold.
+- **[Jaeger UI #4419](https://github.com/jaegertracing/jaeger-ui/pull/4419) — merged upstream.** Improved the GenAI experience with a focused UI fix accepted by the Jaeger project.
+
 <a id="skills"></a>
 ## ✧ Technologies & Practice
 
@@ -125,7 +130,7 @@ const lucas = {
     <tr>
       <td align="center" valign="top">
         <a href="https://github.com/Rukafuu/DEUS"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Rukafuu&repo=DEUS&theme=radical&border_color=FF5C9D&title_color=FF80B5" alt="DEUS" /></a>
-        <p><strong>DEUS · Language, compiler & VM</strong><br>A specialized language for information retrieval pipelines, implemented in C17 with type checks and runtime resource limits.</p>
+        <p><strong>DEUS · Language, compiler & VM</strong><br>A specialized C17 language for safe information pipelines, with semantic analysis, structured types, structural subtyping and bounded runtime execution.</p>
         <p><sub>Experimental · <a href="https://github.com/Rukafuu/DEUS-Vscode">VS Code extension & native LSP</a></sub></p>
       </td>
       <td align="center" valign="top">
