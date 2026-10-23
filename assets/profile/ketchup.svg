@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="218" viewBox="0 0 480 218" role="img" aria-label="Ketchup: Git, dependency and environment drift, summarized for your next session.">
+<title>Ketchup</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#301b31"/><stop offset="1" stop-color="#1d1827"/></linearGradient><radialGradient id="glow"><stop stop-color="#f49cc4" stop-opacity=".16"/><stop offset="1" stop-color="#f49cc4" stop-opacity="0"/></radialGradient></defs>
+<rect x="6" y="6" width="468" height="206" rx="26" fill="url(#bg)" stroke="#815369" stroke-opacity=".55"/>
+<ellipse cx="425" cy="35" rx="100" ry="90" fill="url(#glow)"/>
+<path d="M430 24 Q430 38 416 38 Q430 38 430 52 Q430 38 444 38 Q430 38 430 24Z" fill="#eab1d0"/>
+<circle cx="451" cy="60" r="2" fill="#be91bb"/><circle cx="406" cy="22" r="1.7" fill="#be91bb"/>
+<text x="30" y="40" fill="#d9aac5" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1.4">A LITTLE WORKSPACE MEMORY</text>
+<text x="30" y="79" fill="#ffd1e7" font-family="Georgia,serif" font-size="31">Ketchup</text>
+<text x="30" y="113" fill="#f0dce7" font-family="Segoe UI,Arial,sans-serif" font-size="15">Git, dependency and environment drift,</text>
+<text x="30" y="136" fill="#f0dce7" font-family="Segoe UI,Arial,sans-serif" font-size="15">summarized for your next session.</text>
+<rect x="29" y="162" width="209.6" height="27" rx="13.5" fill="#4b2c44"/>
+<text x="43" y="180" fill="#ecc1d9" font-family="Segoe UI,Arial,sans-serif" font-size="12">Go · CLI &amp; editor extension</text>
+<path d="M434 173l6 6-6 6m-8-6h14" fill="none" stroke="#e4a6ca" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
