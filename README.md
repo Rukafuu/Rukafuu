@@ -1,93 +1,162 @@
-<p align="center">
-  <img src="./assets/madoka-magica.gif" width="680" alt="Madoka Magica in soft pinks, lace and magical-girl details" />
-</p>
+<a id="top"></a>
 
-<h3 align="center">Lucas Frischeisen <sub>✧</sub></h3>
+<div align="center">
+  <a href="#about"><img src="https://img.shields.io/badge/about-FF5C9D?style=flat&labelColor=2A1025" /></a>
+  <a href="#building"><img src="https://img.shields.io/badge/building-FF5C9D?style=flat&labelColor=2A1025" /></a>
+  <a href="#skills"><img src="https://img.shields.io/badge/tech-FF5C9D?style=flat&labelColor=2A1025" /></a>
+  <a href="#projects"><img src="https://img.shields.io/badge/projects-FF5C9D?style=flat&labelColor=2A1025" /></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/stats-FF5C9D?style=flat&labelColor=2A1025" /></a>
+  <a href="#anime"><img src="https://img.shields.io/badge/anime-FF5C9D?style=flat&labelColor=2A1025" /></a>
+</div>
 
-<p align="center">
-  AI systems, developer tools, and software with personality.
-</p>
+<div align="center">
+  <img src="./assets/madoka-magica.gif" width="100%" alt="Madoka Magica" />
+</div>
 
-<p align="center">
-  <a href="https://portfolio.lucas-frischeisen.workers.dev/">Portfolio</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/rukafuu/">LinkedIn</a> &nbsp; · &nbsp;
-  <a href="mailto:contato@rukafuu.dev">Email</a> &nbsp; · &nbsp;
-  <a href="https://discord.com/users/334099538803425280">Discord</a>
-</p>
+<p align="center"><img src="./assets/profile/nameplate.svg" width="840" alt="Lucas Frischeisen — code, characters and a little magic" /></p>
 
-<br>
-
-I build systems that remember, tools that explain themselves, and interfaces with a little life in them.
-
-My work moves between **agents, voice and memory**, **developer tooling**, and **backend architecture**. I care about how software works, how it feels, and what we can actually verify.
-
-I also make electronic music as **Reskyume / Rukafuu**. Anime, visual novels, and magical girls are part of the atmosphere.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF5C9D&size=20&center=true&vCenter=true&width=780&lines=Artificial+Intelligence+Engineer;Agents%2C+voice%2C+memory+and+backend;Developer+tools%2C+evals+and+context+engineering;Software+that+feels+alive">
+</div>
 
 <br>
 
-### A few things I'm building
+<a id="about"></a>
+<h3 align="center">✦ About Me</h3>
 
-**[Hane](https://github.com/Rukafuu/Hane)** &nbsp; <sub>LOCAL AGENTS</sub>  
-A local-first agent orchestrator with bounded calls, scoped workspace reads, and a persistent audit trail. Your provider, your machine, a record of what happened.
+> *“I don't just develop software. I create characters, tools, and intelligent ecosystems.”*
 
-**[Lira](https://github.com/Rukafuu/LiraVtuber)** &nbsp; <sub>VOICE · MEMORY · CHARACTER</sub>  
-A desktop VTuber assistant bringing voice, conversational memory, local tools, and Live2D interaction into one character experience.
+I build **AI systems, developer tools, and software with personality** — from agents with voice and memory to compilers and desktop experiences. I care about how software works, how it feels, and what we can actually verify.
 
-**[DEUS](https://github.com/Rukafuu/DEUS)** &nbsp; <sub>LANGUAGE · COMPILER · VM</sub>  
-An experimental language for information pipelines, implemented in C17. The compiler validates intent; the VM enforces types and resource limits.
+I also produce electronic music as **Reskyume/Rukafuu**, follow anime and visual novels with a slightly unhealthy devotion, and believe personality is not technical debt.
 
-**[Mímir](https://github.com/Rukafuu/Mimir)** &nbsp; <sub>CONTEXT · PERMISSIONS</sub>  
-An experimental Go context kernel exploring purpose-bound, short-lived capabilities for AI systems. The current MVP uses mock sources and in-memory state.
-
-<details>
-<summary>More tools, protocols & experiments</summary>
+```ts
+const lucas = {
+  role: "AI & Backend Engineer",
+  focus: [
+    "agent systems",
+    "context engineering",
+    "voice and memory",
+    "reliable backend architecture",
+  ],
+  principle: "evidence before confidence",
+  currentlyPlaying: "something magical and loud at 3 AM",
+};
+```
 
 <br>
+<p align="center"><img src="./assets/profile/divider.svg" width="840" alt="" /></p>
+<br>
+
+<a id="building"></a>
+<h3 align="center">♡ Building & Exploring</h3>
+
+<div align="center">
+
+[![DEUS](https://img.shields.io/badge/DEUS-DSL_·_compiler_·_VM-FF5C9D?style=flat&logo=github&logoColor=white)](https://github.com/Rukafuu/DEUS)
+[![DEUS VSCode](https://img.shields.io/badge/DEUS_VSCode-language_support-DA6AA6?style=flat&logo=visualstudiocode&logoColor=white)](https://github.com/Rukafuu/DEUS-Vscode)
+[![TimeWarp](https://img.shields.io/badge/TimeWarp-HTTP_capture_·_replay-F06AAB?style=flat&logo=github&logoColor=white)](https://github.com/Rukafuu/TimeWarp)
+[![Ketchup](https://img.shields.io/badge/Ketchup-workspace_drift-FF80B5?style=flat&logo=go&logoColor=white)](https://github.com/Rukafuu/Ketchup)
+[![GhostClock](https://img.shields.io/badge/GhostClock-C17_·_Win32-C84E91?style=flat&logo=c&logoColor=white)](https://github.com/Rukafuu/GhostCLock)
+[![ExpoMCP](https://img.shields.io/badge/ExpoMCP-Expo_diagnostics_·_MCP-FFB3D5?style=flat&logo=expo&logoColor=3A1530)](https://github.com/Rukafuu/ExpoMCP)
+
+</div>
+
+<h3 align="center">✦ Open Source Contributions</h3>
+
+- **[Laya #269](https://github.com/NandhaKishorM/laya/pull/269) & [#706](https://github.com/NandhaKishorM/laya/pull/706)** — merged upstream. Metamorphic option-order evaluation and token-budget confounding diagnostics.
+- **[Jaeger UI #4419](https://github.com/jaegertracing/jaeger-ui/pull/4419)** — merged upstream. Automatically expands GenAI attributes when they are the only section available.
+
+
+<a id="skills"></a>
+<h3 align="center">✧ Technologies & Practice</h3>
+
+<div align="center">
+
+**AI & Agent Systems**
+<br>
+<img src="https://img.shields.io/badge/Python-D95892?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Agents-FF5C9D?style=flat" />
+<img src="https://img.shields.io/badge/Context_Engineering-FF5C9D?style=flat" />
+<img src="https://img.shields.io/badge/RAG-4A183A?style=flat" />
+<img src="https://img.shields.io/badge/Evals-FF5C9D?style=flat" />
+<img src="https://img.shields.io/badge/n8n-E84D91?style=flat&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/FFmpeg-A93D72?style=flat&logo=ffmpeg&logoColor=white" />
+
+<br>
+
+**Backend & Systems**
+<br>
+<img src="https://img.shields.io/badge/C17-C84E91?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-E55B9B?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-BF4E87?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Fastify-3A1530?style=flat&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-C65091?style=flat&logo=zod&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-3A1530?style=flat&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-E772AE?style=flat&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-3A1530?style=flat&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-D95B9B?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-C55390?style=flat&logo=postgresql&logoColor=white" />
+
+<br>
+
+**Frontend & Creative Work**
+<br>
+<img src="https://img.shields.io/badge/React-FFA3CB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-FFA3CB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Expo-3A1530?style=flat&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Tauri-E77FB2?style=flat&logo=tauri&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-3A1530?style=flat&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F06AAB?style=flat&logo=cloudflare&logoColor=white" />
+
+</div>
+
+<br>
+<p align="center"><img src="./assets/profile/divider.svg" width="840" alt="" /></p>
+<br>
+
+<a id="projects"></a>
+<h3 align="center">☾ Selected Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/Rukafuu/Hane"><img src="./assets/profile/hane.svg" width="48%" alt="Hane — Bounded calls, scoped workspace reads, and a persistent trail of what happened." /></a>
+  <a href="https://github.com/Rukafuu/LiraVtuber"><img src="./assets/profile/lira.svg" width="48%" alt="Lira — A desktop companion with voice, hybrid memory and Live2D interaction." /></a>
+  <a href="https://github.com/Rukafuu/DEUS"><img src="./assets/profile/deus.svg" width="48%" alt="DEUS — Information pipelines in C17, with validated intent and bounded execution." /></a>
+  <a href="https://github.com/Rukafuu/Mimir"><img src="./assets/profile/mimir.svg" width="48%" alt="Mímir — Purpose-bound capabilities for AI. MVP: mock sources, in-memory state." /></a>
+  <a href="https://github.com/Rukafuu/Ketchup"><img src="./assets/profile/ketchup.svg" width="48%" alt="Ketchup — Git, dependency and environment drift, summarized for your next session." /></a>
+  <a href="https://github.com/Rukafuu/PortfolioAB"><img src="./assets/profile/portfolio.svg" width="48%" alt="PortfolioAB — A cassette-inspired home for software, original music and creative experiments." /></a>
+</p>
+
+
+### More tools & past experiments
 
 - **[TimeWarp](https://github.com/Rukafuu/TimeWarp)** — Local HTTP capture and replay tooling in Go.
-- **[Ketchup](https://github.com/Rukafuu/Ketchup)** — A CLI and editor extension for Git, dependency, and environment drift.
-- **[AAG Protocol](https://github.com/Rukafuu/AAG-Protocol)** — A draft specification and experimental benchmark for evidence-based repository context.
-- **[GhostClock](https://github.com/Rukafuu/GhostCLock)** — Experimental C17/Win32 tooling for baseline measurements and reversible process-priority changes.
-- **[ExpoMCP](https://github.com/Rukafuu/ExpoMCP)** — Local Expo / React Native inspection and diagnostics through MCP.
-- **[PortfolioAB](https://github.com/Rukafuu/PortfolioAB)** — Code, original music, and a cassette-inspired portfolio.
-- **[LiraOS](https://github.com/Rukafuu/LiraOS)** — Earlier AI companion ecosystem. Paused indefinitely; maintenance and public deployment suspended.
+- **[AAG Protocol](https://github.com/Rukafuu/AAG-Protocol)** — Draft specification and experimental benchmark for evidence-based repository context.
 
-</details>
+- **[GhostClock](https://github.com/Rukafuu/GhostCLock)** — Experimental C17/Win32 performance tooling; the current MVP measures a baseline and applies reversible process-priority changes.
+- **[ExpoMCP](https://github.com/Rukafuu/ExpoMCP)** — A local MCP server for Expo/React Native project inspection, dependency checks and diagnostics.
+- **[LiraOS](https://github.com/Rukafuu/LiraOS)** — An AI companion ecosystem exploring agents, visual perception, voice and conversational memory. **Paused indefinitely; maintenance and public deployment suspended.**
 
 <br>
-
-### Some work beyond my own repositories
-
-**[Laya](https://github.com/NandhaKishorM/laya)**  
-Merged contributions to metamorphic evaluation: [option-order robustness](https://github.com/NandhaKishorM/laya/pull/269) and [token-budget confounding diagnostics](https://github.com/NandhaKishorM/laya/pull/706).
-
-**[Jaeger UI](https://github.com/jaegertracing/jaeger-ui/pull/4419)**  
-Merged a GenAI trace-view improvement: expand the attributes section automatically when it is the only section available.
-
+<p align="center"><img src="./assets/profile/divider.svg" width="840" alt="" /></p>
 <br>
 
-### What I work with
+<a id="stats"></a>
+<h3 align="center">✦ Statistics</h3>
 
-**Intelligence** &nbsp; Python · LLM agents · RAG · context engineering · evals  
-**Systems** &nbsp; TypeScript · Node.js · Go · C17 · PostgreSQL · Docker  
-**Interfaces** &nbsp; React · React Native · Expo · Tauri · Three.js · Cloudflare
-
-<br>
-
-<p align="center">♡</p>
-<p align="center">
-  <em>Personality is not technical debt.</em><br>
-  <sub>Code, electronic music, and a slightly unreasonable attachment to fictional characters.</sub>
-</p>
+<div align="center">
+  <img src="https://count.getloli.com/get/@Rukafuu?theme=moebooru" alt="Moe Counter" />
+  <br><br>
+  <img src="https://github-stats-extended.vercel.app/api?username=Rukafuu&show_icons=true&theme=radical&hide_border=true&title_color=FF5C9D&icon_color=FF5C9D&include_all_commits=true&locale=en&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rukafuu&layout=compact&theme=radical&hide_border=true&title_color=FF5C9D&hide=makefile&langs_count=8&size_weight=0.5&count_weight=0.5&locale=en&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
+</div>
 
 <br>
-
-<details>
-<summary>Off the clock — anime, manga & favorite characters ♡</summary>
-
+<p align="center"><img src="./assets/profile/divider.svg" width="840" alt="" /></p>
 <br>
 
-### Anime, manga & favorite characters
+<a id="anime"></a>
+<h3 align="center">♡ Anime & Manga Status</h3>
 
 <div align="center">
   <table>
@@ -149,22 +218,31 @@ Merged a GenAI trace-view improvement: expand the attributes section automatical
 
 </div>
 
-</details>
-
-<details>
-<summary>A few numbers — GitHub & profile stats</summary>
-
 <br>
+<p align="center"><img src="./assets/profile/divider.svg" width="840" alt="" /></p>
+<br>
+
+<h3 align="center">✧ Connect With Me</h3>
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@Rukafuu?theme=moebooru" alt="Moe Counter" />
-  <br><br>
-  <img src="https://github-stats-extended.vercel.app/api?username=Rukafuu&show_icons=true&theme=radical&hide_border=true&title_color=FF5C9D&icon_color=FF5C9D&include_all_commits=true&locale=en&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rukafuu&layout=compact&theme=radical&hide_border=true&title_color=FF5C9D&hide=makefile&langs_count=8&size_weight=0.5&count_weight=0.5&locale=en&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" />
+  <a href="https://www.linkedin.com/in/rukafuu/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF5C9D?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/334099538803425280">
+    <img src="https://img.shields.io/badge/Discord-DA6AA6?style=flat&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://portfolio.lucas-frischeisen.workers.dev/">
+    <img src="https://img.shields.io/badge/Website-FF5C9D?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:contato@rukafuu.dev">
+    <img src="https://img.shields.io/badge/Email-F06AAB?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
-</details>
+<br><br>
 
-<br>
-
-<p align="center"><sub>Made with curiosity, evidence, and a little magic. ✧</sub></p>
+<div align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back_to_Top-%E2%86%A1-FF5C9D?style=flat" />
+  </a>
+</div>
